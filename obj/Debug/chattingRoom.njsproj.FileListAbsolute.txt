@@ -1,0 +1,3 @@
+D:\web\chattingRoom\chattingRoom\obj\Debug\chattingRoom.njsprojResolveAssemblyReference.cache
+D:\web\chattingRoom\chattingRoom\obj\Debug\chattingRoom.njsproj.CoreCompileInputs.cache
+D:\web\chattingRoom\chattingRoom\bin\Microsoft.NodejsTools.WebRole.dll

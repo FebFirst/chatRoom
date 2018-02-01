@@ -1,0 +1,13 @@
+﻿body {
+    padding: 50px;
+    font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00e9f0;
+}
+
+button {
+    width:100px;
+    height:50px;
+}
